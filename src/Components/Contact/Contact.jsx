@@ -99,7 +99,7 @@ export default function ContactSection() {
               Contact Information
             </h2>
             <div className="space-y-4 text-lg">
-              <p>📞 <span className="text-yellow-400">Phone:</span> +92 309 4876831</p>
+              {/* <p>📞 <span className="text-yellow-400">Phone:</span> +92 309 4876831</p> */}
               <p>📧 <span className="text-yellow-400">Email:</span> sheraziwaheed4@gmail.com</p>
               <p>📍 <span className="text-yellow-400">Location:</span> Lahore, PUNJAB, Pakistan</p>
             </div>
